@@ -270,17 +270,17 @@ A huge thank you to all our contributors! ScaleTail wouldn’t be what it is tod
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/ChillBill77">
-                    <img src="https://avatars.githubusercontent.com/u/129118422?v=4" width="100;" alt="ChillBill77"/>
-                    <br />
-                    <sub><b>ChillBill77</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/michaelhodges">
                     <img src="https://avatars.githubusercontent.com/u/3329567?v=4" width="100;" alt="michaelhodges"/>
                     <br />
                     <sub><b>michaelhodges</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ChillBill77">
+                    <img src="https://avatars.githubusercontent.com/u/129118422?v=4" width="100;" alt="ChillBill77"/>
+                    <br />
+                    <sub><b>ChillBill77</b></sub>
                 </a>
             </td>
             <td align="center">
